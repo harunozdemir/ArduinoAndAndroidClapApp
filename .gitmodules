@@ -1,0 +1,3 @@
+[submodule "Android/ArduinoSensors"]
+	path = Android/ArduinoSensors
+	url = git@github.com:harunozdemir/ArduinoAndAndroidClapApp.git
